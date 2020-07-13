@@ -11,4 +11,4 @@ Alle Bilder © Harald Möller
 
 {% include gallery-layout.html gallery=site.data.galleries.martinsturm %}
 
-[repo]: https://github.com/opieters/jekyll-gallery-example
+[repo]: https://github.com/HarMol00/homepage
