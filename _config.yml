@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This website is an example on how to use my gallery blog post to add a
   photo gallery to your blog/website.
 baseurl: "/homepage" # the subpath of your site, e.g. /blog
-url: "//HarMol00.github.io" # the base hostname & protocol for your site
+url: "//harmol00.github.io" # the base hostname & protocol for your site
 github_username:  HarMol00
 
 # Build settings
