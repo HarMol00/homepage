@@ -1,0 +1,12 @@
+picture_path: martinsturm
+preview:
+  filename: Martinsturm01
+  original: Martinsturm01.jpg
+  thumbnail: Martinsturm01-thumb.jpg
+pictures:
+- filename: Martinsturm01
+  original: Martinsturm01.jpg
+  thumbnail: Martinsturm01-thumb.jpg
+- filename: Martinsturm02
+  original: Martinsturm02.jpg
+  thumbnail: Martinsturm02-thumb.jpg
