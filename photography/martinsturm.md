@@ -9,4 +9,4 @@ Hier sind Bilder meines Modells des Martinsturms zu sehen.
 
 Alle Bilder © Harald Möller
 
-{% include gallery-layout.html gallery=site.data.martinsturm %}
+{% include gallery-layout.html gallery=site.data.galleries.martinsturm %}
