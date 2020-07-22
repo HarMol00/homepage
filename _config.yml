@@ -21,7 +21,7 @@ markdown: kramdown
 defaults:
   -
     scope:
-      path: "photography"
+      path: "modelling"
     values:
       permalink: /:path/:basename:output_ext
 
