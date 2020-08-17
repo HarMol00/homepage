@@ -7,22 +7,24 @@
 
 # Site settings
 title: Meine Modellbauseite
-email: your-email@domain.com
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This website is an example on how to use my gallery blog post to add a
-  photo gallery to your blog/website.
+  Diese Seite ist erst im Aufbau.
 baseurl: "/homepage" # the subpath of your site, e.g. /blog
 url: "//harmol00.github.io" # the base hostname & protocol for your site
-github_username:  HarMol00
+# github_username:  HarMol00
+# twitter_username: HarMol00
 
 # Build settings
 markdown: kramdown
-
+theme: jekyll-theme-tactile
+ 
 defaults:
   -
     scope:
-      path: "modelling"
+      path: "404"
     values:
+      layout: "default"
       permalink: /:path/:basename:output_ext
 
 exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]

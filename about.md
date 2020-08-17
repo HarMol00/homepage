@@ -1,15 +1,8 @@
 ---
 layout: page
-title: About this site
-permalink: /about/
+title: Über diese Seite
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Auf dieser Seite werden Projekte aus dem Bereich Modellbau beschrieben.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Wenn du dich für Modelleisenbahn interessierst, schau doch beim <a href="http://www.mecbregenz.at/">MEC Bregenz</a> vorbei.
