@@ -17,7 +17,8 @@ url: "//harmol00.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
+remote_theme: abhinavs/moonwalk
  
 defaults:
   -
