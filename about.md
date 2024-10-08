@@ -1,8 +1,8 @@
 ---
 layout: post
-title: About
+title: Über diese Seite
 ---
 
-This is an example page!
+Auf dieser Seite werden Projekte aus dem Bereich Modellbau beschrieben.
 
-Actually, it has the same layout of a post...
+Wenn du dich für Modelleisenbahn interessierst, schau doch beim <a href="http://www.mecbregenz.at/">MEC Bregenz</a> vorbei.
