@@ -13,9 +13,9 @@ project_entries:
     url: martinsturm
     desc: Das Wahrzeichen von Bregenz
 
-  - title: Südtirolersiedlung
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Südtiroler-Siedlung
+    url: suedtiroler
+    desc: Große Siedlungsgebäude aus den 1940er Jahren
 
 old_project_entries:
   - title: Soopr
