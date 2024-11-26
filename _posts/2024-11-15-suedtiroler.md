@@ -7,6 +7,6 @@ In <a href="https://de.wikipedia.org/wiki/S%C3%BCdtiroler-Siedlung">Südtiroler-
 <br/>
 Im Bregenzer Stadtteil Schendlingen stehen viele dieser markanten Gebäude. Einen kleinen Teil davon habe ich im Modell nachgebaut.
 
-[![Bilder Südtiroler-Siedlung](/assets/images/photos/suedtiroler/Suedtiroler01.jpg)](/gallery/suedtiroler)
+[![Bilder Südtiroler-Siedlung](/assets/images/photos/Suedtiroler/Suedtiroler01.jpg)](/gallery/suedtiroler)
 
 Alle Bilder © Harald Möller
