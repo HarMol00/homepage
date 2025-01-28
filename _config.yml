@@ -34,9 +34,6 @@ theme_config:
     title_blog: Blog
     title_other_projects: Andere Projekte
 
-soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
-
 highlighter: rouge
 
 sass:
@@ -44,4 +41,3 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
