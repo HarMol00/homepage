@@ -6,7 +6,7 @@ html { height: 100%; }
 body {
   font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
-  line-height: 2;
+  line-height: 1.5;
   margin: 0;
   min-height: 100%;
 }
@@ -39,9 +39,10 @@ li { margin: 0.4em 0; }
 
 table, th, td {
   width: 100%;
-  border: thin solid black;
+  border: thin solid var(--border);
   border-collapse: collapse;
   padding: 0.4em;
+  vertical-align: top;
 }
 
 div.highlighter-rouge pre code, pre code.highlighter-rouge {
@@ -52,7 +53,7 @@ div.highlighter-rouge pre code, pre code.highlighter-rouge {
 
 blockquote {
   font-style: italic;
-  border: thin solid black;
+  border: thin solid var(--border);
   padding: 1em;
 
   p { margin: 0; }
@@ -74,6 +75,7 @@ img {
       --highlight: #FFECB2; // light yellow
       --code-text: #9D174D;
       --share-text: #999;
+      --border: #374151;
   }
 }
 // -------------- THEME SWITCHER -------------- //
@@ -88,6 +90,7 @@ img {
       --text-secondary: #9CA3AF;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
+      --border: #adb5bd;
   };
 }
 
